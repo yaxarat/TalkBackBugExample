@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TalkBackBugExample</string>
+    <string name="main_button_text">Launch dialogue fragment</string>
+    <string name="back_button_description">Back</string>
+</resources>
