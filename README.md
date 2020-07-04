@@ -11,3 +11,6 @@ TalkBack announces the content description only once.
 1. Open app with TalkBack toggled on.
 2. Click "Launch Dialogue Fragment" button
 3. Listen as TalkBack announces the content description on imageView on the launched dialog fragment.
+
+## Follow this issue
+https://issuetracker.google.com/issues/158862279
