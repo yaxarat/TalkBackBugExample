@@ -3,7 +3,7 @@ When a dialog fragment has a tool bar, with `imageView` with a click listner to 
 
 Example: `imageView` with listner to excucte `dialog.dismiss()` has a content description of "Back". TalkBack will announce "Back, Back Button" on the initial focus when the dialog is created.
 
-# Expected behavior
+## Expected behavior
 TalkBack announces the content description only once.
 
 
